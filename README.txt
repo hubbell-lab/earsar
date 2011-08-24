@@ -15,7 +15,6 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
 EARSAR is distributed in an executable JAR file.
 
 The contents of the JAR file are:
-
  * META-INF/
  * META-INF/MANIFEST.MF
  * com/
