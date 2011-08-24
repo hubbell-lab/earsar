@@ -9,7 +9,7 @@ EARSAR is a program to simulate SAR and EAR sampling distributions for a given
 relative abundance distribution and degree of population clumping. It runs on 
 Java 6.  
 
-EARSAR is meant to demonstrate and support the results of Hubbell and He (2011) [Species–area relationships always overestimate extinction rates from habitat loss](http://www.nature.com/nature/journal/v473/n7347/full/nature09985.html).
+EARSAR is meant to demonstrate and support the results of He and Hubbell (2011) [Species–area relationships always overestimate extinction rates from habitat loss](http://www.nature.com/nature/journal/v473/n7347/full/nature09985.html).
 
 
 EARSAR is distributed in the hope that it will be useful, but WITHOUT ANY 
