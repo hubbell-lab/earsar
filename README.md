@@ -1,13 +1,16 @@
-# EARSAR
+# EARSAR #
 
-    July 11, 2011
-    (C) Copyright 2011 by Solutions For Hire.
+July 11, 2011
+(C) Copyright 2011 by Solutions For Hire.
 
-## Introduction
+### Introduction
 
 EARSAR is a program to simulate SAR and EAR sampling distributions for a given 
 relative abundance distribution and degree of population clumping. It runs on 
-Java 6.
+Java 6.  
+
+EARSAR is meant to demonstrate and support the results of Hubbell and He (2011) [Species–area relationships always overestimate extinction rates from habitat loss](http://www.nature.com/nature/journal/v473/n7347/full/nature09985.html).
+
 
 EARSAR is distributed in the hope that it will be useful, but WITHOUT ANY 
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
@@ -18,18 +21,18 @@ EARSAR is distributed in an executable JAR file.
 
 1. Download the JAR file
     
-    https://github.com/downloads/hubbell-lab/earsar/earsar.jar
+        https://github.com/downloads/hubbell-lab/earsar/earsar.jar
     
 1. If Java is not installed on your machine install it.
 1. Enter the command: 
 
-    java -jar earsar.jar
+        java -jar earsar.jar
 
-## Documentation 
+### Documentation 
 
 The java source code includes comments that describe how the code works.
 
-## Java Files
+### Java Files
 
 The EARSAR program is composed of  10 Java Files 
 
@@ -67,7 +70,7 @@ The EARSAR program is composed of  10 Java Files 
                               input and contains min and max allowed value for user
                               and initially a default value.
 
-The contents of the JAR file are:
+#### The contents of the JAR file are:
 
 * META-INF/
 * META-INF/MANIFEST.MF
